@@ -1,0 +1,1921 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Student Management.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Student Management.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Front-end\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\css\\style.css",
+      "PackagePath": "staticwebassets\\Front-end\\css\\style.css"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\Front-end\\img\\about.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\img\\book.gif",
+      "PackagePath": "staticwebassets\\Front-end\\img\\book.gif"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\Front-end\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\Front-end\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\img\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\Front-end\\img\\cat-1.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\img\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\Front-end\\img\\cat-2.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\img\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\Front-end\\img\\cat-3.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\img\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\Front-end\\img\\cat-4.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\img\\course-1.jpg",
+      "PackagePath": "staticwebassets\\Front-end\\img\\course-1.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\img\\course-2.jpg",
+      "PackagePath": "staticwebassets\\Front-end\\img\\course-2.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\img\\course-3.jpg",
+      "PackagePath": "staticwebassets\\Front-end\\img\\course-3.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\img\\sagar.png",
+      "PackagePath": "staticwebassets\\Front-end\\img\\sagar.png"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\Front-end\\img\\team-1.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\Front-end\\img\\team-2.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\Front-end\\img\\team-3.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\Front-end\\img\\team-4.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\Front-end\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\Front-end\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\Front-end\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\img\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\Front-end\\img\\testimonial-4.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\js\\main.js",
+      "PackagePath": "staticwebassets\\Front-end\\js\\main.js"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\Front-end\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\Front-end\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\Front-end\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\Front-end\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\Front-end\\lib\\owlcarousel"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Front-end\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Front-end\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Front-end\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\Front-end\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Front-end\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\Front-end\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\Front-end\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Front-end\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Front-end\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Front-end\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\Front-end\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\Front-end\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\Front-end\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\Front-end\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\Front-end\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\Front-end\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\css\\Style.css",
+      "PackagePath": "staticwebassets\\css\\Style.css"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\css\\argon-dashboard.css",
+      "PackagePath": "staticwebassets\\css\\argon-dashboard.css"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\css\\argon-dashboard.css.map",
+      "PackagePath": "staticwebassets\\css\\argon-dashboard.css.map"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\css\\argon-dashboard.min.css",
+      "PackagePath": "staticwebassets\\css\\argon-dashboard.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\css\\nucleo-icons.css",
+      "PackagePath": "staticwebassets\\css\\nucleo-icons.css"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\css\\nucleo-svg.css",
+      "PackagePath": "staticwebassets\\css\\nucleo-svg.css"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\fonts\\nucleo-icons.eot",
+      "PackagePath": "staticwebassets\\fonts\\nucleo-icons.eot"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\fonts\\nucleo-icons.svg",
+      "PackagePath": "staticwebassets\\fonts\\nucleo-icons.svg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\fonts\\nucleo-icons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\nucleo-icons.ttf"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\fonts\\nucleo-icons.woff",
+      "PackagePath": "staticwebassets\\fonts\\nucleo-icons.woff"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\fonts\\nucleo-icons.woff2",
+      "PackagePath": "staticwebassets\\fonts\\nucleo-icons.woff2"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\fonts\\nucleo.eot",
+      "PackagePath": "staticwebassets\\fonts\\nucleo.eot"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\fonts\\nucleo.ttf",
+      "PackagePath": "staticwebassets\\fonts\\nucleo.ttf"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\fonts\\nucleo.woff",
+      "PackagePath": "staticwebassets\\fonts\\nucleo.woff"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\fonts\\nucleo.woff2",
+      "PackagePath": "staticwebassets\\fonts\\nucleo.woff2"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\1d3fd7d8-1ab4-4d36-bdb4-76b78e8c8868_Screenshot (3).png",
+      "PackagePath": "staticwebassets\\img\\1d3fd7d8-1ab4-4d36-bdb4-76b78e8c8868_Screenshot (3).png"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\229cf593-75ab-474c-8524-b9367c476ab5_Screenshot (1).png",
+      "PackagePath": "staticwebassets\\img\\229cf593-75ab-474c-8524-b9367c476ab5_Screenshot (1).png"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\45ec48a5-937d-424a-8093-34cb25de250b_Screenshot (3).png",
+      "PackagePath": "staticwebassets\\img\\45ec48a5-937d-424a-8093-34cb25de250b_Screenshot (3).png"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\5a7564a6-e0ea-4555-bf4a-c658eca842ad_Screenshot (4).png",
+      "PackagePath": "staticwebassets\\img\\5a7564a6-e0ea-4555-bf4a-c658eca842ad_Screenshot (4).png"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\ab45fa34-5876-4007-8417-5d7f44b2104d_Screenshot (2).png",
+      "PackagePath": "staticwebassets\\img\\ab45fa34-5876-4007-8417-5d7f44b2104d_Screenshot (2).png"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\apple-icon.png",
+      "PackagePath": "staticwebassets\\img\\apple-icon.png"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\bc5b320e-ffed-4cb3-905c-03c916274760_Screenshot (1).png",
+      "PackagePath": "staticwebassets\\img\\bc5b320e-ffed-4cb3-905c-03c916274760_Screenshot (1).png"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\bg-profile.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-profile.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\bg1.jpg",
+      "PackagePath": "staticwebassets\\img\\bg1.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\bruce-mars.jpg",
+      "PackagePath": "staticwebassets\\img\\bruce-mars.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\carousel-3.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-3.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\curved-images\\curved-10.jpg",
+      "PackagePath": "staticwebassets\\img\\curved-images\\curved-10.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\curved-images\\curved-11.jpg",
+      "PackagePath": "staticwebassets\\img\\curved-images\\curved-11.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\curved-images\\curved-6.jpg",
+      "PackagePath": "staticwebassets\\img\\curved-images\\curved-6.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\curved-images\\curved-8.jpg",
+      "PackagePath": "staticwebassets\\img\\curved-images\\curved-8.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\curved-images\\curved0.jpg",
+      "PackagePath": "staticwebassets\\img\\curved-images\\curved0.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\curved-images\\curved1.jpg",
+      "PackagePath": "staticwebassets\\img\\curved-images\\curved1.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\curved-images\\curved10.jpg",
+      "PackagePath": "staticwebassets\\img\\curved-images\\curved10.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\curved-images\\curved11-small.jpg",
+      "PackagePath": "staticwebassets\\img\\curved-images\\curved11-small.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\curved-images\\curved11.jpg",
+      "PackagePath": "staticwebassets\\img\\curved-images\\curved11.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\curved-images\\curved12.jpg",
+      "PackagePath": "staticwebassets\\img\\curved-images\\curved12.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\curved-images\\curved13.jpg",
+      "PackagePath": "staticwebassets\\img\\curved-images\\curved13.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\curved-images\\curved14.jpg",
+      "PackagePath": "staticwebassets\\img\\curved-images\\curved14.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\curved-images\\curved19.jpg",
+      "PackagePath": "staticwebassets\\img\\curved-images\\curved19.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\curved-images\\curved2.jpg",
+      "PackagePath": "staticwebassets\\img\\curved-images\\curved2.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\curved-images\\curved21.jpg",
+      "PackagePath": "staticwebassets\\img\\curved-images\\curved21.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\curved-images\\curved3.jpg",
+      "PackagePath": "staticwebassets\\img\\curved-images\\curved3.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\curved-images\\curved4.jpg",
+      "PackagePath": "staticwebassets\\img\\curved-images\\curved4.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\curved-images\\curved5-small.jpg",
+      "PackagePath": "staticwebassets\\img\\curved-images\\curved5-small.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\curved-images\\curved5.jpg",
+      "PackagePath": "staticwebassets\\img\\curved-images\\curved5.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\curved-images\\curved6-small.jpg",
+      "PackagePath": "staticwebassets\\img\\curved-images\\curved6-small.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\curved-images\\curved6.jpg",
+      "PackagePath": "staticwebassets\\img\\curved-images\\curved6.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\curved-images\\curved7.jpg",
+      "PackagePath": "staticwebassets\\img\\curved-images\\curved7.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\curved-images\\curved8.jpg",
+      "PackagePath": "staticwebassets\\img\\curved-images\\curved8.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\curved-images\\curved9.jpg",
+      "PackagePath": "staticwebassets\\img\\curved-images\\curved9.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\curved-images\\white-curved.jpeg",
+      "PackagePath": "staticwebassets\\img\\curved-images\\white-curved.jpeg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\down-arrow-dark.svg",
+      "PackagePath": "staticwebassets\\img\\down-arrow-dark.svg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\down-arrow-white.svg",
+      "PackagePath": "staticwebassets\\img\\down-arrow-white.svg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\down-arrow.svg",
+      "PackagePath": "staticwebassets\\img\\down-arrow.svg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\home-decor-1.jpg",
+      "PackagePath": "staticwebassets\\img\\home-decor-1.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\home-decor-2.jpg",
+      "PackagePath": "staticwebassets\\img\\home-decor-2.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\home-decor-3.jpg",
+      "PackagePath": "staticwebassets\\img\\home-decor-3.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\icons\\flags\\AU.png",
+      "PackagePath": "staticwebassets\\img\\icons\\flags\\AU.png"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\icons\\flags\\BR.png",
+      "PackagePath": "staticwebassets\\img\\icons\\flags\\BR.png"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\icons\\flags\\DE.png",
+      "PackagePath": "staticwebassets\\img\\icons\\flags\\DE.png"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\icons\\flags\\GB.png",
+      "PackagePath": "staticwebassets\\img\\icons\\flags\\GB.png"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\icons\\flags\\US.png",
+      "PackagePath": "staticwebassets\\img\\icons\\flags\\US.png"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\illustrations\\icon-documentation.svg",
+      "PackagePath": "staticwebassets\\img\\illustrations\\icon-documentation.svg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\illustrations\\rocket-white.png",
+      "PackagePath": "staticwebassets\\img\\illustrations\\rocket-white.png"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\ivana-square.jpg",
+      "PackagePath": "staticwebassets\\img\\ivana-square.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\ivancik.jpg",
+      "PackagePath": "staticwebassets\\img\\ivancik.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\kal-visuals-square.jpg",
+      "PackagePath": "staticwebassets\\img\\kal-visuals-square.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\logo-ct-dark.png",
+      "PackagePath": "staticwebassets\\img\\logo-ct-dark.png"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\logo-ct.png",
+      "PackagePath": "staticwebassets\\img\\logo-ct.png"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\logos\\mastercard.png",
+      "PackagePath": "staticwebassets\\img\\logos\\mastercard.png"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\logos\\visa.png",
+      "PackagePath": "staticwebassets\\img\\logos\\visa.png"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\marie.jpg",
+      "PackagePath": "staticwebassets\\img\\marie.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\shapes\\pattern-lines.svg",
+      "PackagePath": "staticwebassets\\img\\shapes\\pattern-lines.svg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\shapes\\shape-1.svg",
+      "PackagePath": "staticwebassets\\img\\shapes\\shape-1.svg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\shapes\\shape-2.svg",
+      "PackagePath": "staticwebassets\\img\\shapes\\shape-2.svg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\shapes\\shape-3.svg",
+      "PackagePath": "staticwebassets\\img\\shapes\\shape-3.svg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\shapes\\wave-down.svg",
+      "PackagePath": "staticwebassets\\img\\shapes\\wave-down.svg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\shapes\\wave-up.svg",
+      "PackagePath": "staticwebassets\\img\\shapes\\wave-up.svg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\shapes\\waves-gray.svg",
+      "PackagePath": "staticwebassets\\img\\shapes\\waves-gray.svg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\shapes\\waves-white.svg",
+      "PackagePath": "staticwebassets\\img\\shapes\\waves-white.svg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\small-logos\\icon-sun-cloud.png",
+      "PackagePath": "staticwebassets\\img\\small-logos\\icon-sun-cloud.png"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\small-logos\\logo-atlassian.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\logo-atlassian.svg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\small-logos\\logo-invision.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\logo-invision.svg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\small-logos\\logo-jira.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\logo-jira.svg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\small-logos\\logo-slack.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\logo-slack.svg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\small-logos\\logo-spotify.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\logo-spotify.svg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\small-logos\\logo-webdev.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\logo-webdev.svg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\small-logos\\logo-xd.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\logo-xd.svg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\img\\team-4.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\theme\\angular.jpg",
+      "PackagePath": "staticwebassets\\img\\theme\\angular.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\theme\\bootstrap.jpg",
+      "PackagePath": "staticwebassets\\img\\theme\\bootstrap.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\theme\\dribbble.png",
+      "PackagePath": "staticwebassets\\img\\theme\\dribbble.png"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\theme\\dropbox.png",
+      "PackagePath": "staticwebassets\\img\\theme\\dropbox.png"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\theme\\mastercard.png",
+      "PackagePath": "staticwebassets\\img\\theme\\mastercard.png"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\theme\\paypal.png",
+      "PackagePath": "staticwebassets\\img\\theme\\paypal.png"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\theme\\react.jpg",
+      "PackagePath": "staticwebassets\\img\\theme\\react.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\theme\\sketch.jpg",
+      "PackagePath": "staticwebassets\\img\\theme\\sketch.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\theme\\slack.png",
+      "PackagePath": "staticwebassets\\img\\theme\\slack.png"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\theme\\spotify.jpeg",
+      "PackagePath": "staticwebassets\\img\\theme\\spotify.jpeg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\theme\\tim.png",
+      "PackagePath": "staticwebassets\\img\\theme\\tim.png"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\theme\\unass.jpg",
+      "PackagePath": "staticwebassets\\img\\theme\\unass.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\theme\\visa.png",
+      "PackagePath": "staticwebassets\\img\\theme\\visa.png"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\theme\\vue.jpg",
+      "PackagePath": "staticwebassets\\img\\theme\\vue.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\img\\vr-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\vr-bg.jpg"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\js\\argon-dashboard.js",
+      "PackagePath": "staticwebassets\\js\\argon-dashboard.js"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\js\\argon-dashboard.js.map",
+      "PackagePath": "staticwebassets\\js\\argon-dashboard.js.map"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\js\\argon-dashboard.min.js",
+      "PackagePath": "staticwebassets\\js\\argon-dashboard.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\js\\core\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\core\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\js\\plugins\\Chart.extension.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\Chart.extension.js"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\js\\plugins\\bootstrap-notify.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap-notify.js"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\js\\plugins\\chartjs.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\chartjs.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\js\\plugins\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\js\\plugins\\smooth-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\smooth-scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\js\\toast.js",
+      "PackagePath": "staticwebassets\\js\\toast.js"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\_alert.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\_avatars.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\_avatars.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\_badge.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\_cards.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\_cards.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\_dark-version.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\_dark-version.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\_dropup.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\_dropup.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\_footer.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\_forms.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\_header.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\_header.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\_info-areas.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\_misc.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\_misc.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\_nav.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\_navbar-vertical.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\_navbar-vertical.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\_popovers.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\_popovers.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\_progress.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\_rtl.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\_rtl.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\_social-buttons.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\_tables.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\_tilt.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\_tilt.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\_timeline.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\_timeline.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\_tooltips.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\_typography.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\_typography.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\_utilities-extend.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\_utilities-extend.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\_variables.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\_accordion.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\_containers.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\_containers.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\_helpers.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\_helpers.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\_maps.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\_maps.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\_offcanvas.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\_placeholders.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\forms\\_validation.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\helpers\\_position.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\mixins\\_container.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\utilities\\_api.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\cards\\card-background.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\cards\\card-background.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\cards\\card-carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\cards\\card-carousel.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\custom\\_styles.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\custom\\_styles.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\custom\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\custom\\_variables.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\forms\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\forms\\_form-switch.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\forms\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\forms\\_forms.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\forms\\_inputs.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\forms\\_inputs.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\mixins\\_colored-shadows.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\mixins\\_colored-shadows.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\mixins\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\mixins\\_social-buttons.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\mixins\\mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\mixins\\mixins.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\plugins\\free\\_flatpickr.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\plugins\\free\\_flatpickr.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\plugins\\free\\_nouislider.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\plugins\\free\\_nouislider.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\plugins\\free\\_perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\plugins\\free\\_perfect-scrollbar.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\plugins\\free\\_prism.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\plugins\\free\\_prism.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\plugins\\free\\plugins.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\plugins\\free\\plugins.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\theme.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\theme.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\variables\\_animations.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\variables\\_animations.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\variables\\_avatars.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\variables\\_avatars.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\variables\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\variables\\_badge.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\variables\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\variables\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\variables\\_cards-extend.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\variables\\_cards-extend.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\variables\\_cards.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\variables\\_cards.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\variables\\_choices.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\variables\\_choices.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\variables\\_dark-version.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\variables\\_dark-version.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\variables\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\variables\\_dropdowns.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\variables\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\variables\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\variables\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\variables\\_form-switch.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\variables\\_full-calendar.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\variables\\_full-calendar.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\variables\\_header.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\variables\\_header.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\variables\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\variables\\_info-areas.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\variables\\_misc-extend.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\variables\\_misc-extend.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\variables\\_misc.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\variables\\_misc.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\variables\\_navbar-vertical.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\variables\\_navbar-vertical.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\variables\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\variables\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\variables\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\variables\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\variables\\_rtl.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\variables\\_rtl.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\variables\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\variables\\_social-buttons.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\variables\\_table.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\variables\\_table.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\variables\\_timeline.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\variables\\_timeline.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\variables\\_utilities-extend.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\variables\\_utilities-extend.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\variables\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\variables\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\.Net\\Asp\\Student Management\\Student Management\\wwwroot\\scss\\argon-dashboard\\variables\\_virtual-reality.scss",
+      "PackagePath": "staticwebassets\\scss\\argon-dashboard\\variables\\_virtual-reality.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Student Management.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Student Management.props",
+      "PackagePath": "build\\Student Management.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Student Management.props",
+      "PackagePath": "buildMultiTargeting\\Student Management.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Student Management.props",
+      "PackagePath": "buildTransitive\\Student Management.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
