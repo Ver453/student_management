@@ -1,9 +1,8 @@
 ﻿using Student_Management.Models;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 using Student_Management.Data;
 
-namespace Authentication.Controllers
+namespace Student_Management.Controllers
 {
     public class FacultyController : Controller
     {

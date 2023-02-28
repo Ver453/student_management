@@ -19,7 +19,7 @@ namespace Student_Management.Models
         [Required(ErrorMessage = "Please enter a gender!")]
         [DisplayName("Gender")]
         public string? Gender { get; set; }
-        public Boolean Enabled { get; set; }
+        public bool Enabled { get; set; }
         public string? imgUrl { get; set; }
         [NotMapped]
         public IFormFile? Photo { get; set; }
